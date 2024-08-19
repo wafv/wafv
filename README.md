@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @william
 - 👀 I’m interested in Financial Markets
-- 🌱 I’m currently learning how to become a Data Scientist
+- 🌱 I’m currently learning about Data Science
 - 💞️ I’m looking to collaborate on GitHub/Python/SQL/VBA
