@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wafv
+- 👀 I’m interested in Financial Markets
+- 🌱 I’m currently learning how to become a Data Scientist
+- 💞️ I’m looking to collaborate on GitHub/Python/SQL/VBA
